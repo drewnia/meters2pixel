@@ -3,5 +3,5 @@
 
 Требует python3.7+ и пакет Math
 
-#Запуск 
+# Запуск 
 python3 ./meter2pixel.py
